@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Outermost ellipse -->
+    <path
+        android:fillColor="#FF6200EE"
+        android:pathData="M12,2 A10,10 0 1,1 12,22 A10,10 0 1,1 12,2 Z" />
+
+    <!-- Middle ellipse -->
+    <path
+        android:fillColor="#FF3700B3"
+        android:pathData="M12,4 A8,8 0 1,1 12,20 A8,8 0 1,1 12,4 Z" />
+
+    <!-- Innermost ellipse -->
+    <path
+        android:fillColor="#FF6200EE"
+        android:pathData="M12,6 A6,6 0 1,1 12,18 A6,6 0 1,1 12,6 Z" />
+</vector>
